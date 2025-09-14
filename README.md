@@ -1,7 +1,7 @@
 This is a revisited original clockwise project (canvas) from https://github.com/jnthas/clockwise 
 I have modified this project for basically insert a new canvas without get it from internet (for private canvas messages/images).
 
-In this project i have added a new local canvas named "vespa". It is in a serialized json onto the variable "vespa" in the vespa variable fit on the firmware/clockfaces/cw-cf-0x07/localcanvas.h file.
+In this project i have added a new local canvas named "vespa". It is in a serialized json onto the variable "vespa" in the vespa variable (firmware/clockfaces/cw-cf-0x07/localcanvas.h file).
 It is also present a original local canvas "snoopy3" into the snoopy variable.
 For use it you must put "LOCAL" in the Server Address setting, and put "vespa" or "snoopy" in the Description file setting.
 It is possible to use original canvas repository raw.githubusercontent.com
